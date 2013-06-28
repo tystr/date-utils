@@ -5,7 +5,7 @@ namespace Tystr\Util;
 /**
  * Mangles dates to set the correct timezones and hours
  *
- * @author Tyler Stroud <ststroud@gmail.com>
+ * @author Tyler Stroud <tyler@tylerstroud.com>
  */
 class DateUtils
 {

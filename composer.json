@@ -1,0 +1,15 @@
+{
+    "name": "tystr/date-utils",
+    "description": "Provides basic datetime object manipulation.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tyler Stroud",
+            "email": "tyler@tylerstroud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
